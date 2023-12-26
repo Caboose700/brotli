@@ -1,4 +1,4 @@
-module github.com/andybalholm/brotli
+module github.com/Caboose700/brotli
 
 go 1.12
 
